@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <rect width="720" height="960" fill="#eff6f3"/>
+  <circle cx="360" cy="440" r="95" fill="#0d7779"/>
+  <path d="M337 396v88l70-44z" fill="#fff"/>
+  <text x="360" y="598" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" fill="#202b29">Luna Pet Shop</text>
+  <text x="360" y="646" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#67736f">Ver reel en Instagram</text>
+</svg>
