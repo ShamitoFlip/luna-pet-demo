@@ -1,0 +1,15 @@
+# Archivos locales y capturas de comprobación
+.browser-check/
+.preview-*.png
+.check.cjs
+.verify.py
+.iterate.py
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Credenciales y configuración privada
+.env
+.env.*
+*.pem
+*.key
